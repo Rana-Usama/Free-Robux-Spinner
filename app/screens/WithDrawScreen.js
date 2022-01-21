@@ -15,7 +15,7 @@ function WithDrawScreen(props) {
         <Screen style={{ flex: 1, justifyContent: 'flex-start', alignItems: "center", backgroundColor: Colors.white }}>
 
             {/* Nav */}
-            <View style={{ width: '100%', height: RFPercentage(14), justifyContent: 'center', alignItems: 'flex-start', backgroundColor: Colors.primary }} >
+            <View style={{ width: '100%', height: RFPercentage(13), justifyContent: 'center', alignItems: 'flex-start', backgroundColor: Colors.primary }} >
                 <Text style={{ marginLeft: RFPercentage(2), fontSize: RFPercentage(2.6), fontWeight: '500', color: Colors.black }}>
                     Free Robux Spinner
                 </Text>
